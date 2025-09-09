@@ -830,3 +830,7 @@ Error:
 [09:39:02 | 08-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x1cdaf907f6928a332ce0fba6512b7b1dededdfc86be29782c81fd8bfdeafd375
 [09:42:05 | 08-09-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
 [09:42:08 | 08-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[09:25:38 | 09-09-2025] Transaction Confirmed: https://reddio-devnet.l2scan.co/tx/0x78a7df3b1f7bb55c5da1b4d3325a9b989dfe4a0cb951de32d1f092c360452cc6
+[09:25:51 | 09-09-2025] Transaction Confirmed: https://sepolia.etherscan.io/tx/0x0780e671d3d1688b3a2020d0b29528e9ff1013d81820654e409ff6fc2190ba2e
+[09:28:54 | 09-09-2025] Transfer Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
+[09:28:57 | 09-09-2025] Bridge Task failed for 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3: Request failed with status code 400
